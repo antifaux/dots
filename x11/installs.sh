@@ -11,6 +11,9 @@ catppuccin-gtk-theme-mocha \
 catppuccin-cursors-mocha \
 catppuccin-mocha-grub-theme-git \
 spotify \
+zoom \
+bitwarden \
+teams \
 
 
 
