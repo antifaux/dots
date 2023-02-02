@@ -289,7 +289,7 @@ bindsym $mod+Mod1+Ctrl+Right resize grow width 1 px or 1 ppt
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 # choose your font
-font pango:Noto Mono Regular 8
+font pango:Hack Nerd Font 12
 
 ################# assign applications to workspaces 
 
@@ -735,7 +735,7 @@ bindsym control+mod1+o exec --no-startup-id ~/.config/i3/scripts/picom-toggle.sh
 bar {
     height 22
     workspace_buttons yes
-	font pango:SourceCodePro-Black
+	font pango:Hack Nerd Font 13
 	# position top
     position bottom
 
